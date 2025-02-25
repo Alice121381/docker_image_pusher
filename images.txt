@@ -2,6 +2,16 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+rabbitmg:management
+redis:latest
+elasticsearch:6.8.1
+morunchang/fastdfs:latest
+mysql:5.7
+kibana:6.8.1
+openzipkin/zipkin
+nacos/nacos-server
+bladex/sentinel-dashboard
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
+
