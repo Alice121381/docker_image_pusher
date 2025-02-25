@@ -1,4 +1,4 @@
-rabbitmg:management
+rabbitmq:management
 redis:latest
 elasticsearch:6.8.1
 morunchang/fastdfs:latest
